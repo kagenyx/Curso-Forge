@@ -1,5 +1,6 @@
 package com.kagenyx.cursomods;
 
+import com.kagenyx.cursomods.item.ItemsMod;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.Blocks;
 import net.minecraftforge.common.MinecraftForge;
@@ -29,6 +30,8 @@ public class CursoMods
     public CursoMods() {
         // Register the setup method for modloading
         IEventBus eventBus = FMLJavaModLoadingContext.get().getModEventBus();
+
+        ItemsMod.register(eventBus);
 
         eventBus.addListener(this::setup);
 
