@@ -1,3 +1,5 @@
 {
-  "item.cursomods.cobalt_ingot" : "Cobalt Ingot"
+  "item.cursomods.cobalt_ingot" : "Cobalt Ingot",
+  "block.cursomods.cobalt_block": "Cobalt Block",
+  "block.cursomods.cobalt_ore": "Cobalt Ore"
 }
