@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "cursomods:cobalt_block",
+    "cursomods:cobalt_ore",
+    "cursomods:raw_cobalt_block",
+    "cursomods:deepslate_cobalt_ore"
+  ]
+}
