@@ -4,6 +4,9 @@
   "block.cursomods.cobalt_ore": "Cobalt Ore",
   "block.cursomods.deepslate_cobalt_ore": "Deepslate Cobalt Ore",
   "block.cursomods.raw_cobalt_block": "Raw Cobalt Block",
-  "itemGroup.coursemodtab": "Curso"
+  "itemGroup.coursemodtab": "Curso",
+  "item.cursomods.cobalt_ingot": "Cobalt Nugget",
+  "item.cursomods.raw_cobalt": "Raw Cobalt"
+
 
 }
