@@ -7,10 +7,10 @@
   ],
   "key": {
     "#": {
-      "item": "mccourse:cobalt_ingot"
+      "item": "cursomods:cobalt_ingot"
     }
   },
   "result": {
-    "item": "mccourse:cobalt_block"
+    "item": "cursomods:cobalt_block"
   }
 }
