@@ -1,6 +1,7 @@
 package com.kagenyx.cursomods.item;
 
 import com.kagenyx.cursomods.CursoMods;
+import com.kagenyx.cursomods.item.custom.DowsingRodItem;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.Item;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -20,6 +21,9 @@ public class ItemsMod {
 
     public static final RegistryObject<Item> RAW_COBALT = ITEMS.register("raw_cobalt",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.COURSE_TAB)));
+
+    public static final RegistryObject<Item> DOWSING_ROD = ITEMS.register("dowsing_rod",
+            () -> new DowsingRodItem(new Item.Properties().tab(ModCreativeModeTab.COURSE_TAB)));
 
     public static void register(IEventBus eventBus){
         ITEMS.register(eventBus);

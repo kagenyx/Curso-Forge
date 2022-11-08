@@ -6,7 +6,7 @@
   "block.cursomods.raw_cobalt_block": "Raw Cobalt Block",
   "itemGroup.coursemodtab": "Curso",
   "item.cursomods.cobalt_ingot": "Cobalt Nugget",
-  "item.cursomods.raw_cobalt": "Raw Cobalt"
-
-
+  "item.cursomods.raw_cobalt": "Raw Cobalt",
+  "item.cursomods.dowsing_rod.no_valuables": "No valuables found!",
+  "item.cursomods.dowsing_rod": "Dowsing Rod"
 }
