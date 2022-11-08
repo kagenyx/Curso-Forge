@@ -1,6 +1,7 @@
 package com.kagenyx.cursomods.block;
 
 import com.kagenyx.cursomods.CursoMods;
+import com.kagenyx.cursomods.block.custom.SpeedyBlock;
 import com.kagenyx.cursomods.item.ItemsMod;
 import com.kagenyx.cursomods.item.ModCreativeModeTab;
 import net.minecraft.world.item.BlockItem;
@@ -32,6 +33,9 @@ public class ModBlocks {
     public static final RegistryObject<Block> RAW_COBALT_BLOCK = registerBlock("raw_cobalt_block",
             () -> new Block(BlockBehaviour.Properties.of(Material.METAL).strength(5f).requiresCorrectToolForDrops()), ModCreativeModeTab.COURSE_TAB);
 
+    public static final RegistryObject<Block> SPEEDY_BLOCK = registerBlock("speedy_block",
+            () -> new SpeedyBlock(BlockBehaviour.Properties.of(Material.STONE)
+                    .strength(2f).requiresCorrectToolForDrops()), ModCreativeModeTab.COURSE_TAB);
 
 
     private static <T extends Block> RegistryObject<T> registerBlock(String name, Supplier<T> block, CreativeModeTab tab) {
