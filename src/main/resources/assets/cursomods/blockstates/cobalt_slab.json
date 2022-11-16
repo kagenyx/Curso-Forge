@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cursomods:block/cobalt_slab"
+    },
+    "type=double": {
+      "model": "cursomods:block/cobalt_block"
+    },
+    "type=top": {
+      "model": "cursomods:block/cobalt_slab_top"
+    }
+  }
+}

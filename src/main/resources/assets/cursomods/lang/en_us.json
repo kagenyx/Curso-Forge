@@ -14,5 +14,12 @@
   "block.cursomods.speedy_block": "Speedy Block",
   "tooltip.cursomods.dowsing_rod.tooltip.shift": "Right click to see valuable items below!",
   "tooltip.cursomods.dowsing_rod.tooltip": "Press §lSHIFT§r for more information.",
-  "tooltip.cursomods.speedy_block" : "Are you seriwous right neow?"
+  "tooltip.cursomods.speedy_block" : "Are you seriwous right neow?",
+  "block.cursomods.cobalt_stairs": "Cobalt Stairs",
+  "block.cursomods.cobalt_slab": "Cobalt Slab",
+  "block.cursomods.cobalt_fence": "Cobalt Fence",
+  "block.cursomods.cobalt_fence_gate": "Cobalt Fence Gate",
+  "block.cursomods.cobalt_wall": "Cobalt Wall",
+  "block.cursomods.cobalt_button": "Cobalt Button",
+  "block.cursomods.cobalt_pressure_plate": "Cobalt Pressure Plate"
 }

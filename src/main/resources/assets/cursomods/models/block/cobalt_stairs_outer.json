@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "cursomods:block/cobalt_block",
+    "top": "cursomods:block/cobalt_block",
+    "side": "cursomods:block/cobalt_block"
+  }
+}
